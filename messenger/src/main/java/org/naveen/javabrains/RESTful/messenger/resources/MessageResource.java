@@ -12,7 +12,8 @@ import javax.ws.rs.core.MediaType;
 
 import org.naveen.javabrains.RESTful.messenger.model.Message;
 import org.naveen.javabrains.RESTful.messenger.service.MessageService;
-
+//this will be shown after commit operation
+//this is second commit
 @Path("/messages")
 public class MessageResource {
      
